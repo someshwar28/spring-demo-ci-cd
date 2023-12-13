@@ -13,7 +13,7 @@ public class SpringBootWarDeployApplication{
 	
 	@GetMapping(value = "/welcome")
 	public String getMessage() {
-		return "welcome to ashok it";
+		return "welcome to ashok it Best training institute in Hyderabad";
 	}
 
 	public static void main(String[] args) {
